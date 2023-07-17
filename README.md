@@ -1,1 +1,2 @@
 # Diwali_Sales_Analysis
+The project aims to investigate their purchasing preferences during the Diwali festival period, analysis of sales data and consumer trends, this project sheds light on the buying patterns of this target demographic. It reveals that married women within this age group and professional background exhibit a higher inclination towards purchasing products from the Food, Clothing, and Electronics categories during the festive season.
